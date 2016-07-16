@@ -1,4 +1,4 @@
-# FlatBuffer Android Sample Application
+# 这个是flatbuffers数据格式，效率比json高很多。 FlatBuffer Android Sample Application
 This app shows how fast flat buffer works when we compare it with json.
 
 # Try [Fast Android Networking Library](https://github.com/amitshekhariitbhu/Fast-Android-Networking) for easy and fast networking
